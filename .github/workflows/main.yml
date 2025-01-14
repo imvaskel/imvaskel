@@ -19,5 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
           plugin_languages: true
+          plugin_languages_details: percentage
           base: header
           config_order: base.header, languages
