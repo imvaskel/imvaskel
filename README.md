@@ -1,10 +1,17 @@
-<h2 align="center">Hi, I'm Vaskel.</h2>
+***
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imvaskel&hide=css,scss&theme=onedark" alt="Top Languages" />
-  
-  <p align="center">
-    If you want to find out more about me, you can head to my website
-      <a href="https://vaskel.gay/about">here!</a> (my social media is also there)
-  </p>
-</p>
+<div align="center"> 
+  <h2>Hey, I'm Skylar.</h2>
+  <p>I am a non-binary <b>(they/them)</b> computer programmer from the US. I am pursuing a degree in Computer Science and enjoy tinkering with computers</p>
+  <p>You can find me in a variety of places. If you'd like to learn more about me, you can find more info at <a href="https://vaskel.gay">
+    my website.
+  </a>I do things sometimes, I guess, so there's probably not much here to look at.</p>
+</div>
+
+***
+
+<div align="center">
+  <picture>
+      <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
+</div>
